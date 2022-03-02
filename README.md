@@ -8,7 +8,7 @@ Here are a few things about me and what I'm doing lately:
 
 🌱 I am a lover of learning, and I'm currently teaching myself Git and DITA.
 
-🐙 I contribute to the [Good Docs Project](https://thegooddocsproject.dev/), an open source community that focuses on developing templates and writing instructions to improve open source software documentation.
+🐙 I recently joined and plan to contribute to the [Good Docs Project](https://thegooddocsproject.dev/), an open source community that focuses on developing templates and writing instructions to improve open source software documentation.
 
 👩🏻‍💻 You can learn more about me and my professional background by visiting my [online portfolio](kaylamorales.com) and feel free to say hello via the [Contact](https://kaylamorales.com/contact) page. 
 
