@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Kayla 👋
 
-<!--
-**heykayla/heykayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical writer with a passion for crafting quality documentation and learning all things technical writing-related. 
 
-Here are some ideas to get you started:
+Here are a few things about me and what I'm doing lately:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Techncial-Writing-Portfolio](https://github.com/heykayla/Technical-Writing-Portfolio) to see documents that I have produced thus far. 
+
+🌱 I am lover of learning, and I'm currently teaching myself Git and DITA.
+
+🐙 I contribute to the [Good Docs Project](https://thegooddocsproject.dev/), an open source community that focuses on developing templates and writing instructions to improve documentation of open source software.
+
+👩🏻‍💻 You can learn more about me and my professional background by visiting my [online portfolio](kaylamorales.com), and feel free to say hello via the [Contact](https://kaylamorales.com/contact) page. 
+
+⚡ Fun fact: I installed a Little Free Library in my college community as a part of a class project for my Technical Writing I class. I'm very proud of this accomplishment, and it warms my heart to see community members using it. 📚
