@@ -4,7 +4,7 @@ I'm a technical writer with a passion for crafting quality documentation and lea
 
 Here are a few things about me and what I'm doing lately:
 
-✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Technical-Writing-Portfolio](https://github.com/heykayla/Technical-Writing-Portfolio) to see the documents I have produced thus far. 
+✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Technical-Writing-Portfolio](https://github.com/heykayla/Technical-Writing-Portfolio) repository to see the technical documents I have produced thus far. 
 
 🌱 I am a lover of learning, and I'm currently teaching myself Git and DITA.
 
