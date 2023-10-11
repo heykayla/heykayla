@@ -8,6 +8,6 @@ The following are a few things about me.
 
 🌱 I am a lover of learning, and I'm currently teaching myself Git and DITA.
 
-🐙 I am a former contributor to the [Good Docs Project](https://thegooddocsproject.dev/). The Good Docs Project is an open source community that focuses on developing templates and writing instructions to improve open source software documentation.
+🐙 I am a former contributor to [The Good Docs Project](https://thegooddocsproject.dev/). The Good Docs Project is an open source community that focuses on developing templates and writing instructions to improve open source software documentation.
 
 ⚡ Fun fact: I installed a Little Free Library in my college community as a part of a class project for my Technical Writing I class. I'm very proud of this accomplishment, and it warms my heart to see community members using it. 📚
